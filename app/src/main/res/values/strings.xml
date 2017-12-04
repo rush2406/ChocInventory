@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Chocolate Inventory</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="dummy_data">Insert Dummy Data</string>
+    <string name="delete_all">Delete all entries</string>
+    <string name="pro">Product Name</string>
+    <string name="quan">Quantity</string>
+    <string name="price">Price in $</string>
+    <string name="sold">No. of items sold</string>
+    <string name="sold1">No. sold</string>
+    <string name="sell">sell</string>
+    <string name="order">No. of items ordered</string>
+    <string name="order1">No. ordered</string>
+    <string name="ord">order more</string>
+    <string name="ima">select image</string>
+    <string name="what">What are you looking at?</string>
+    <string name="but">Get some chocolates right away by clicking the button below!</string>
+    <string name="name">Name required</string>
+    <string name="look">Discard changes and quit editing?</string>
+    <string name="dis">DISCARD</string>
+    <string name="keep">KEEP EDITING</string>
+    <string name="neg">Negative quantity not allowed</string>
+    <string name="or">Order for </string>
+    <string name="in">Insert Failed</string>
+    <string name="suc">Success</string>
+    <string name="uf">Update Failed</string>
+    <string name="up">Updated</string>
+    <string name="df">Deletion failed</string>
+    <string name="de">Deleted</string>
+    <string name="all">All Deleted</string>
+    <string name="con">Do you want to delete?</string>
+    <string name="del">YES</string>
+    <string name="ndel">NO</string>
+    <string name="add">Add</string>
+    <string name="add1">No. of items added</string>
+    <string name="added">No. added</string>
+
+</resources>
