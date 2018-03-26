@@ -16,7 +16,7 @@ cd <Repository-name>
 git status
 
 ```
-"
+
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/29939341/37914344-a82794a6-3134-11e8-918c-3f167bba21d2.png" width=300 heigth=auto>
